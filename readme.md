@@ -4,6 +4,7 @@
 - [china_high_school_math_people_teach_a_version_pdf](https://litongjava.github.io/china_high_school_math_people_teach_a_version_pdf)
 
 - [Chinese-to-English](https://litongjava.github.io/chinese-to-english/)
+- [Mathematical Knowledge](https://litongjava.github.io/mathematical-knowledge)
 
 - [Google Drive Dev Docs](https://drive.google.com/drive/folders/126bsfvBvRRbM76Nxg7iookJmXBVDoa2d?usp=sharing)
 
