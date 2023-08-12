@@ -43,4 +43,7 @@
 - [tauri-youtube](https://github.com/litongjava/tauri-youtube/releases/)
 
 
+- [litongjava-go-simple-http-server](https://github.com/litongjava/litongjava-go-simple-http-server/releases/)
+
+
 
